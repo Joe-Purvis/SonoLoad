@@ -1,0 +1,7 @@
+
+# Local settings, history and generated files
+.history/
+*.kicad_prl
+*.lck
+*-backups/
+jlcpcb/
