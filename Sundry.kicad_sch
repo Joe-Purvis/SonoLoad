@@ -5900,7 +5900,7 @@
 				)
 			)
 		)
-		(property "Manufacturer's Part Number" "3266X-1-103LF"
+		(property "Manufacturer's Part Number" "3266P-1-103LF"
 			(at 133.35 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5922,7 +5922,7 @@
 				)
 			)
 		)
-		(property "Vendor 1 Order Code" "C780224"
+		(property "Vendor 1 Order Code" "C6410857"
 			(at 133.35 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5955,7 +5955,7 @@
 				)
 			)
 		)
-		(property "Vendor 2 Order Code" "3266X-103LF-ND"
+		(property "Vendor 2 Order Code" "3266P-1-103LF-ND"
 			(at 133.35 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6010,7 +6010,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C780224"
+		(property "LCSC" "C6410857"
 			(at 133.35 76.2 0)
 			(hide yes)
 			(show_name no)

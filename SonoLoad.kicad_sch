@@ -3075,7 +3075,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 52.07) (xy 57.15 74.93)
+			(xy 57.15 52.07) (xy 57.15 59.69)
 		)
 		(stroke
 			(width 0)
@@ -8276,7 +8276,7 @@
 	)
 	(symbol
 		(lib_id "Common_Components:V_PCD_RET")
-		(at 57.15 74.93 0)
+		(at 57.15 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
@@ -8286,7 +8286,7 @@
 		(dnp no)
 		(uuid "c712edb3-1cb5-48c0-9734-2c1329cc708a")
 		(property "Reference" "#PWR013"
-			(at 57.15 76.2 0)
+			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8297,7 +8297,7 @@
 			)
 		)
 		(property "Value" "V_PCD_RET"
-			(at 57.15 80.518 0)
+			(at 57.15 65.278 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8308,7 +8308,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 74.93 0)
+			(at 57.15 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8319,7 +8319,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 74.93 0)
+			(at 57.15 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8330,7 +8330,7 @@
 			)
 		)
 		(property "Description" "PCD-domain return. No implied connection to protective earth, chassis, or another return domain. Global net name is determined by Value."
-			(at 57.15 74.93 0)
+			(at 57.15 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10269,6 +10269,7 @@
 			(uuid "b1355e7c-5710-40f3-938e-554a32c6311d")
 			(effects
 				(font
+					(face "Verdana")
 					(size 1.27 1.27)
 				)
 				(justify right)

@@ -1,0 +1,14 @@
+| Reference | Description | Manufacturer part number | Qty/board | Qty for 2 boards | Farnell order code |
+|---|---|---|---:|---:|---|
+| RV1 | 10 kΩ, 12-turn, horizontal side-adjust trimmer | Bourns **3266P-1-103LF** | 1 | 2 | [1612577](https://uk.farnell.com/bourns/3266p-1-103lf/trimmer-12-turn-10kr-0-25w/dp/1612577) |
+| U2 | Arduino Nano 33 IoT, with male headers | Arduino **ABX00032** | 1 | 2 | [3404693](https://uk.farnell.com/arduino/abx00032/nano-33-iot-w-header-development/dp/3404693) |
+| U2 socket strips | 15-way female socket, two per Nano | Samtec **SSW-115-01-G-S** | 2 | 4 | [3515014](https://uk.farnell.com/samtec/ssw-115-01-g-s/connector-rcpt-15pos-1row-2-54mm/dp/3515014) |
+| P2 | 3-way female socket | Samtec **SSW-103-01-G-S** | 1 | 2 | [1668337](https://uk.farnell.com/samtec/ssw-103-01-g-s/receptacle-2-54mm-single-3way/dp/1668337) |
+| J1_PCD1 | 4-way female socket | Samtec **SSW-104-01-G-S** | 1 | 2 | [1668342](https://uk.farnell.com/samtec/ssw-104-01-g-s/pcb-rcpt-4pos-1row-2-54mm-tht/dp/1668342) |
+| J2 | 7-way female socket | Samtec **SSW-107-01-G-S** | 1 | 2 | [2984569](https://uk.farnell.com/samtec/ssw-107-01-g-s/connector-rcpt-7pos-1row-2-54mm/dp/2984569) |
+| J5 | 8-way female socket | Samtec **SSW-108-01-G-S** | 1 | 2 | [1668363](https://uk.farnell.com/samtec/ssw-108-01-g-s/pcb-rcpt-8pos-1row-2-54mm-tht/dp/1668363) |
+| J3 | 10-way female socket | Samtec **SSW-110-01-G-S** | 1 | 2 | [1668374](https://uk.farnell.com/samtec/ssw-110-01-g-s/receptacle-2-54mm-single-10way/dp/1668374) |
+| P_PCD1, P1_LOAD1, P2_LOAD1 | 4-way male header | Samtec **TSW-104-07-G-S** | 3 | 6 | [2667450](https://uk.farnell.com/samtec/tsw-104-07-g-s/connector-header-4pos-1row-2-54mm/dp/2667450) |
+| P1 | 8-way male header | Samtec **TSW-108-07-G-S** | 1 | 2 | [2984588](https://uk.farnell.com/samtec/tsw-108-07-g-s/connector-header-8pos-1row-2-54mm/dp/2984588) |
+| P3, P6 | 15-way male header | Samtec **TSW-115-07-G-S** | 2 | 4 | [3664111](https://uk.farnell.com/samtec/tsw-115-07-g-s/header-2-54mm-tht-vert-15way/dp/3664111) |
+| TP1–TP3 | Miniature red PCB test point | Keystone **5000** | 3 | 6 | [2250281](https://uk.farnell.com/keystone/5000/test-point-pcb-color-coded/dp/2250281) |
