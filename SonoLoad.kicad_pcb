@@ -158,8 +158,8 @@
 		(at 124.24 125.46 90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
-		(property "Reference" "P_PCD1"
-			(at -0.3 12.48 180)
+		(property "Reference" "P1_PCD1"
+			(at -0.55 13.09 180)
 			(layer "F.SilkS")
 			(uuid "3fe036a8-c964-49a7-acee-a6ab66115cea")
 			(effects
